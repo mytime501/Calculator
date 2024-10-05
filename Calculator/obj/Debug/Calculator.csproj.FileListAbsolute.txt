@@ -1,0 +1,33 @@
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\SAMSUNG\Desktop\윈도우즈 프로그래밍\Calculator\Calculator\obj\Debug\App.baml
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\App.g.cs
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\App.baml
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\MainWindow.baml
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\Calculator.g.resources
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\계산기 과제\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
